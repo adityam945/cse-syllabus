@@ -1,3 +1,4 @@
+
 # git pages syllabus host
 
 # endpoints
@@ -8,3 +9,6 @@
 4. /sem6syllabus17.json
 5. /sem7syllabus17.json
 6. /sem8syllabus17.json
+
+# cse-syllabus
+
